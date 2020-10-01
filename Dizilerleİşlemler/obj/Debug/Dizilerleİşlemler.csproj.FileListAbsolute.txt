@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\Dizilerleİşlemler\Dizilerleİşlemler\bin\Debug\Dizilerleİşlemler.exe.config
+C:\Users\Eren\source\repos\Dizilerleİşlemler\Dizilerleİşlemler\bin\Debug\Dizilerleİşlemler.exe
+C:\Users\Eren\source\repos\Dizilerleİşlemler\Dizilerleİşlemler\bin\Debug\Dizilerleİşlemler.pdb
+C:\Users\Eren\source\repos\Dizilerleİşlemler\Dizilerleİşlemler\obj\Debug\Dizilerleİşlemler.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\Dizilerleİşlemler\Dizilerleİşlemler\obj\Debug\Dizilerleİşlemler.Form1.resources
+C:\Users\Eren\source\repos\Dizilerleİşlemler\Dizilerleİşlemler\obj\Debug\Dizilerleİşlemler.Properties.Resources.resources
+C:\Users\Eren\source\repos\Dizilerleİşlemler\Dizilerleİşlemler\obj\Debug\Dizilerleİşlemler.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\Dizilerleİşlemler\Dizilerleİşlemler\obj\Debug\Dizilerleİşlemler.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Dizilerleİşlemler\Dizilerleİşlemler\obj\Debug\Dizilerleİşlemler.exe
+C:\Users\Eren\source\repos\Dizilerleİşlemler\Dizilerleİşlemler\obj\Debug\Dizilerleİşlemler.pdb
